@@ -1,0 +1,14 @@
+CMakeCache.txt
+CMakeFiles/
+Makefile
+bin/
+cmake_install.cmake
+src/CMakeFiles/
+src/Makefile
+src/cmake_install.cmake
+src/libsimpleLibrary.a
+tests/CMakeFiles/
+tests/Makefile
+tests/cmake_install.cmake
+tests/googletest/
+lib/
