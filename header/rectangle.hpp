@@ -7,7 +7,7 @@ class Rectangle {
         int height;
     public:
         Rectangle();
-        Rectangle(int w,int h);
+        Rectangle(int width,int height);
 
         void set_width(int w);
         void set_height(int h);
